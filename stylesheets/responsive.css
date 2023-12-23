@@ -1,0 +1,894 @@
+@media screen and (min-width: 1920px){
+    .grid_first{
+       height: 45vw;
+    }
+    .drops{
+        height: 32vw;
+    }
+    .grid4{
+        height: 42.22vw; 
+    }
+    .grid5{
+        height: 41.5vw;
+    }
+    .grid6{
+       height: 55vw;
+    }
+    
+    
+    
+}
+
+@media screen and (min-width: 1440px){
+  .grid_first{
+       height: 45vw;
+    }
+    .drops{
+        height: 32vw;
+    }
+    .grid4{
+        height: 42.1vw; 
+    }
+    .grid5{
+        height: 39vw;
+    }
+    .grid6{
+       height: 55vw;
+    }
+
+}
+
+@media screen and (min-width: 1366px){
+    .grid_first{
+        height: 45vw;
+     }
+     .drops{
+         height: 32vw;
+     }
+     .grid4{
+         height: 42.3vw; 
+     }
+     .grid5{
+         height: 41.6vw;
+     }
+     .grid6{
+        height: 55vw;
+     }
+     .grid_seven{
+        height: 53.5vw;
+     }
+
+     .c_muziku{
+        margin-left: -0.3%;
+        margin-top: 114.8%;
+     }
+
+     .oval2{
+        margin-left: -165%;
+        margin-top: -1%;
+     }
+     .muzika{
+        margin-left: -155%;
+        margin-top: 20%;
+     }
+}
+
+@media screen and (min-width:1024px) and (max-width: 1365px){
+    .grid_first{
+    width: 95.5%;
+    height: 70vw;
+   }
+   .text_initeal{
+    width: 40%;
+    margin-top: -17%;
+   }
+   .initeal{
+    font-size: 12vw;
+    animation: initeal 4s linear infinite;
+   }
+   @keyframes initeal{
+    0%{animation-timing-function: linear; margin-left:-135%;}
+    50%{ animation-timing-function: linear;}
+    100%{margin-left: 250%;}
+   }
+   .chainaya1{
+    width: 95.5%;
+    margin-top: 17%;
+    height: 15vw;
+   }
+   .chainaya{
+    font-size: 12vw;
+   }
+   .ceremonia1{
+    width: 92%;
+    margin-top: 30.5%;
+    height: 15vw;
+   }
+   .ceremonia{
+    font-size: 12vw;
+   }
+   .zvuka1{
+        width: 92%;
+        margin-top: 46.5%;
+        height: 30vw;
+    }
+    .zvuka{
+        font-size: 12vw;
+       }
+
+       
+    .fourth_screen{
+        display: none;
+    }
+    
+    .drops{
+        height: 39.5vw;
+    }
+    
+    .grid_second{
+        margin-left: -22%;
+        margin-top: 218%;
+        width: 108.5%;
+
+    }
+    
+    .grid3{
+        width: 71.5%;
+        margin-top: 3.5%;
+    }
+    
+    .disk{
+        margin-top: 10%;
+        width: 105%;
+    
+    }
+    .grid_third{
+        height: 55.3vw;
+
+    }
+    .grid5{
+        margin-top: 50%;
+    }
+    .mnogo_cvetov{
+            margin-top: 30.5%;
+            margin-left: 0.4%;
+        
+    }
+    .lepestok{
+        display: none;
+    }
+
+    .lepestok_ef{
+        display: none;
+    }
+    .notes{
+        margin-left: 20%;
+        margin-top: 65%;
+    }
+    .note1{
+        width: 7%;
+    }
+    .note2{
+        width: 8%;
+    }
+    .note3{
+        width: 5%;
+    }
+    
+    .oval1{
+        margin-top: 50%;
+    }
+
+    .s_prirodoy{
+        margin-top: 2%;
+    }
+    .priroda{
+        margin-top: 64%;
+    }
+
+    .seventh_screen{
+     display: none;
+    }
+
+    .sixth_screen{
+        display: none;
+    }
+
+    .grid5{
+        margin-top: 30.5%;
+        height: 41.5vw;
+    }
+    
+    .grid8{
+        margin-top: 67.5%;
+    }
+
+    .grid_end{
+        margin-top: 103.8%;
+    }
+
+    .grid9{
+        margin-top: 103.6%;
+    }
+
+    .text_anya{
+        margin-top: -2%;
+    }
+     
+    .oval2{
+        margin-top: -71%;
+        margin-left: -162%;
+    }
+
+    .c_muziku{
+        margin-top: 88.7%;
+        margin-left: 0.7%;
+    }
+
+    .muzika{
+        margin-top: -49%;
+        margin-left: -153%;
+        rotate: -12deg;
+    }
+
+
+    .back{
+        width: 100.5%;
+        margin-top: -200%;
+}
+
+.text{
+    margin-top: 148%;
+}
+
+    
+    
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .grid_first{
+        width: 95.5%;
+        height: 70vw;
+       }
+
+       
+       .text_initeal{
+        width: 40%;
+        margin-top: -17%;
+       }
+       .initeal{
+        font-size: 12vw;
+        animation: initeal 4s linear infinite;
+       }
+       @keyframes initeal{
+        0%{animation-timing-function: linear; margin-left:-135%;}
+        50%{ animation-timing-function: linear;}
+        100%{margin-left: 250%;}
+       }
+       .chainaya1{
+        width: 95.5%;
+        margin-top: 17%;
+        height: 15vw;
+       }
+       .chainaya{
+        font-size: 12vw;
+       }
+       .ceremonia1{
+        width: 92%;
+        margin-top: 30.5%;
+        height: 15vw;
+       }
+       .ceremonia{
+        font-size: 12vw;
+       }
+       .zvuka1{
+            width: 92%;
+            margin-top: 46.5%;
+            height: 30vw;
+        }
+        .zvuka{
+            font-size: 12vw;
+           }
+
+        .f1:hover{
+            transform-origin: left top;
+            width: 45%;
+            margin-top: -6.5%;
+            margin-left: 58%;
+            
+        }
+
+        .f2:hover{
+            transform-origin: left top;
+            width: 30%;
+            margin-top: 35%;
+            margin-left: 8%;
+        }
+        
+           
+        .fourth_screen{
+            display: none;
+        }
+        
+        .drops{
+            height: 39.5vw;
+        }
+        
+        .grid_second{
+            margin-left: -24%;
+            margin-top: 218%;
+            width: 110.8%;
+    
+        }
+        
+        .grid3{
+            width: 73%;
+            margin-top: 3.5%;
+        }
+        
+        .disk{
+            margin-top: 10%;
+            width: 105%;
+            
+        
+        }
+        .grid_third{
+            height: 56.3vw;
+            
+    
+        }
+        .grid5{
+            margin-top: 50%;
+            
+        }
+
+        .mnogo_cvetov{
+            margin-top: 31.5%;
+            margin-left: 0.5;
+        }
+    
+        .lepestok{
+            display: none;
+        }
+    
+        .lepestok_ef{
+            display: none;
+        }
+        .notes{
+            margin-left: 20%;
+            margin-top: 65%;
+        }
+        .note1{
+            width: 7%;
+        }
+        .note2{
+            width: 8%;
+        }
+        .note3{
+            width: 5%;
+        }
+        
+        .oval1{
+            margin-top: 50%;
+            width: 105%;
+        }
+    
+        .s_prirodoy{
+            margin-top: 2%;
+            width: 45.6%;
+        }
+        .priroda{
+            margin-top: 64%;
+            font-size: 4.5vw;
+        }
+    
+        .seventh_screen{
+         display: none;
+        }
+    
+        .sixth_screen{
+            display: none;
+        }
+    
+        .grid5{
+            margin-top: 31.6%;
+            height: 41.5vw;
+        }
+        
+        .grid8{
+            margin-top: 67.5%;
+        }
+    
+        .grid_end{
+            margin-top: 103.8%;
+        }
+    
+        .grid9{
+            margin-top: 103.6%;
+        }
+    
+        .oval2{
+            margin-top: -70%;
+        }
+    
+        .c_muziku{
+            margin-top: 89.2%;
+            
+        }
+    
+        .muzika{
+            margin-top: -47%;
+        }
+    
+        .text_anya{
+            margin-top: -72%;
+        }
+
+        .grid8{
+            margin-top: 68.5%;
+        }
+
+        .grid9{
+            margin-top: 104.8%;
+        }
+
+        .grid_end{
+            margin-top: 104.8%;
+        }
+
+        .text_anya{
+            margin-top: -10%;
+            font-size: 4.4vw;
+        }
+        
+        .text{
+            width: 45%;
+        }
+
+
+        .oval2{
+            width: 118%;
+            margin-left: -40.4%;
+            margin-top: -72.5%;
+        }
+
+        .c_muziku{
+            width: 47.5%;
+            margin-left: 45%;
+            margin-top: 88%;
+        }
+
+        .muzika{
+            font-size: 4.4vw;
+            margin-left: -31%;
+        }
+
+        .f1{
+            width: 40%;
+        }
+
+        .f2{
+            width: 25%;
+            margin-top: 36%;
+            margin-left: 7%;
+        }
+
+        .text{
+            margin-top: 150%;
+        }
+
+        .back{
+            margin-top: -198%;
+        }
+
+
+         
+
+
+
+   
+
+        
+    
+        
+
+}
+
+@media screen and (min-width: 414px) and (max-width: 767px){
+    .grid_first{
+        width: 95.5%;
+        height: 70vw;
+       }
+       .text_initeal{
+        width: 40%;
+        margin-top: -17%;
+       }
+       .initeal{
+        font-size: 12vw;
+        animation: initeal 4s linear infinite;
+       }
+       @keyframes initeal{
+        0%{animation-timing-function: linear; margin-left:-135%;}
+        50%{ animation-timing-function: linear;}
+        100%{margin-left: 250%;}
+       }
+       .chainaya1{
+        width: 95.5%;
+        margin-top: 17%;
+        height: 15vw;
+       }
+       .chainaya{
+        font-size: 12vw;
+       }
+       .ceremonia1{
+        width: 92%;
+        margin-top: 30.5%;
+        height: 15vw;
+       }
+       .ceremonia{
+        font-size: 12vw;
+       }
+       .zvuka1{
+            width: 92%;
+            margin-top: 46.5%;
+            height: 30vw;
+        }
+        .zvuka{
+            font-size: 12vw;
+        }
+
+        .f1{
+            width: 43%;
+            margin-left: 50%;
+        }
+
+        .f2{
+            width: 25%;
+            margin-left: 10%;
+            
+        }
+
+        .f1:hover{
+            transform-origin: left top;
+            width: 48%;
+            margin-top: -4.5%;
+            margin-left: 50%;
+            
+        }
+
+        .f2:hover{
+            transform-origin: left top;
+            width: 30%;
+            margin-top: 35%;
+            margin-left: 8%;
+        }
+        
+
+        .third_screen, .fourth_screen, .lepestok, .lepestok_ef, .sixth_screen, .eight_screen, .grid9, .grid_end {
+            display: none;
+        }
+
+        .grid_second{
+            margin-top: 216%;
+            width: 309%;
+            margin-left: -222%;
+        }
+
+        .box_cup{
+            display: none;
+        }
+        .box_cup2{
+            opacity: 1;
+            width: 92.6%;
+            margin-top: 65%;
+        }
+
+        .box_cup3{
+            opacity: 1;
+            width: 92.6%;
+            margin-top: 219%;
+        }
+
+        .drops{
+            margin-top: 1%;
+            height: 112vw;
+        }
+        
+        .oval1{
+            margin-top: 280%;
+            width: 195%;
+            margin-left: 25%;
+        }
+        
+        .s_prirodoy{
+            margin-top: 91%;
+            width: 85%;
+            margin-left: 7%;
+        }
+        .text_os1{
+            width: 100%;
+        }
+        .priroda{
+            width: 175%;
+            margin-top: 303%;
+            font-size: 8vw;
+            margin-left: 60%;
+        }
+
+        .back{
+            width: 100.5%;
+            height: 556vw;
+            margin-top: -290%;
+        }
+
+        .grid5{
+            rotate: 90deg;
+            width: 159.7%;
+            height: 100vw;
+            margin-top: 160%;
+            margin-left: -42%;
+            
+
+        }
+
+        .grid5:hover{
+            background-image: none
+        
+        }
+
+        .mnogo_cvetov{
+            display: none;
+        }
+
+        .box2{
+            opacity: 1;
+            margin-top: 125%;
+            margin-left: 3.5%;
+            width: 92.5%;
+        }
+        .ovalchik2{
+            margin-top: 210%;
+            margin-left: 20%;
+        }
+        .c_muziku{
+            width: 83%;
+            margin-top: 195%;
+            margin-left: 10%;
+        }
+
+        .oval2{
+            width: 210%;
+            margin-top: -25%;
+            margin-left: -20%;
+        }
+
+        .text_ch{
+            margin-top: 180%;
+        }
+
+        .muzika{
+            width: 170%;
+            font-size: 8.5vw;
+            margin-top: 0%;
+            margin-left: 36%;
+        }
+
+
+        .grid_seven{
+            height: 130vw;
+            margin-top: 273%;
+            margin-left: 3.5%;
+            width: 92.7%;
+        }
+        .text_anya{
+            font-size: 8.5vw;
+            
+        }
+
+        .text{
+            margin-left: 2%;
+            width: 95%;
+            margin-top: 240%;
+        }
+}
+
+    
+        
+        
+
+@media screen and (min-width: 360px) and (max-width:413px){
+    .grid_first{
+        width: 95.5%;
+        height: 70vw;
+       }
+       .text_initeal{
+        width: 40%;
+        margin-top: -17%;
+       }
+       .initeal{
+        font-size: 12vw;
+        animation: initeal 4s linear infinite;
+       }
+       @keyframes initeal{
+        0%{animation-timing-function: linear; margin-left:-135%;}
+        50%{ animation-timing-function: linear;}
+        100%{margin-left: 250%;}
+       }
+       .chainaya1{
+        width: 95.5%;
+        margin-top: 17%;
+        height: 15vw;
+       }
+       .chainaya{
+        font-size: 12vw;
+       }
+       .ceremonia1{
+        width: 92%;
+        margin-top: 30.5%;
+        height: 15vw;
+       }
+       .ceremonia{
+        font-size: 12vw;
+       }
+       .zvuka1{
+            width: 92%;
+            margin-top: 46.5%;
+            height: 30vw;
+        }
+        .zvuka{
+            font-size: 12vw;
+        }
+
+        .f1{
+            width: 43%;
+            margin-left: 50%;
+        }
+
+        .f2{
+            width: 25%;
+            margin-left: 10%;
+            
+        }
+
+        .f1:hover{
+            transform-origin: left top;
+            width: 48%;
+            margin-top: -4.5%;
+            margin-left: 50%;
+            
+        }
+
+        .f2:hover{
+            transform-origin: left top;
+            width: 30%;
+            margin-top: 35%;
+            margin-left: 8%;
+        }
+        
+
+        .third_screen, .fourth_screen, .lepestok, .lepestok_ef, .sixth_screen, .eight_screen, .grid9, .grid_end {
+            display: none;
+        }
+
+        .grid_second{
+            margin-top: 216%;
+            width: 309%;
+            margin-left: -222%;
+        }
+
+        .box_cup{
+            display: none;
+        }
+        .box_cup2{
+            opacity: 1;
+            width: 92.6%;
+            margin-top: 65%;
+        }
+
+        .box_cup3{
+            opacity: 1;
+            width: 92.6%;
+            margin-top: 219%;
+        }
+
+        .drops{
+            margin-top: 1%;
+            height: 112vw;
+        }
+        
+        .oval1{
+            margin-top: 280%;
+            width: 195%;
+            margin-left: 25%;
+        }
+        
+        .s_prirodoy{
+            margin-top: 91%;
+            width: 85%;
+            margin-left: 7%;
+        }
+        .text_os1{
+            width: 100%;
+        }
+        .priroda{
+            width: 175%;
+            margin-top: 303%;
+            font-size: 8vw;
+            margin-left: 60%;
+        }
+
+        .back{
+            width: 100.5%;
+            height: 556vw;
+            margin-top: -290%;
+        }
+
+        .grid5{
+            rotate: 90deg;
+            width: 159.7%;
+            height: 100vw;
+            margin-top: 160%;
+            margin-left: -42%;
+            
+
+        }
+
+        .grid5:hover{
+            background-image: none
+        
+        }
+
+        .mnogo_cvetov{
+            display: none;
+        }
+
+        .box2{
+            opacity: 1;
+            margin-top: 125%;
+            margin-left: 3.5%;
+            width: 92.5%;
+        }
+        .ovalchik2{
+            margin-top: 210%;
+            margin-left: 20%;
+        }
+        .c_muziku{
+            width: 90%;
+            margin-top: 190%;
+            margin-left: 6%;
+        }
+
+        .oval2{
+            width: 225%;
+            margin-top: -36%;
+            margin-left: -30%;
+        }
+
+        .text_ch{
+            margin-top: 180%;
+        }
+
+        .muzika{
+            width: 170%;
+            font-size: 8.5vw;
+            margin-top: -8%;
+            margin-left: 33%;
+        }
+
+
+        .grid_seven{
+            height: 130vw;
+            margin-top: 273%;
+            margin-left: 3.5%;
+            width: 92.7%;
+        }
+        .text_anya{
+            font-size: 8.5vw;
+            
+        }
+
+        .text{
+            margin-left: 2%;
+            width: 95%;
+            margin-top: 240%;
+        }
+    }
